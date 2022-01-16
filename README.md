@@ -11,9 +11,7 @@ ESA-2021
 *Muzyka Artyom* <br/>
 ### Группа: "6131-010402D"
 
-
-
-### 1. [Lab1](https://github.com/)
-### 2. [Lab2](https://github.com/)
-### 3. [Lab3](https://github.com/)
-### 4. [Lab4](https://github.com/)
+#### 1. [01. JavaEE stack](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/01.%20JavaEE%20stack)
+#### 2. [02. Spring](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/02.%20Spring)
+#### 3. [03. REST](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/03.%20REST)
+#### 4. [04. JMS](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/04.%20JMS)
