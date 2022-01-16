@@ -10,8 +10,8 @@ ESA-2021
 *Troshkin Kirill* <br/>
 *Muzyka Artyom* <br/>
 ### Группа: "6131-010402D"
-
-#### 1. [01. JavaEE stack](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/01.%20JavaEE%20stack)
-#### 2. [02. Spring](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/02.%20Spring)
-#### 3. [03. REST](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/03.%20REST)
-#### 4. [04. JMS](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/04.%20JMS)
+## В данном репозитории представлены следующие работы: <br/>
+####  [01. JavaEE stack](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/01.%20JavaEE%20stack)
+####  [02. Spring](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/02.%20Spring)
+####  [03. REST](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/03.%20REST)
+####  [04. JMS](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/04.%20JMS)
