@@ -10,6 +10,13 @@ ESA-2021
 > *Troshkin Kirill* <br/>
 > *Muzyka Artyom* <br/>
 ### Группа: "6131-010402D"
+### Средства, используемые для разработки приложения:
+> JDK 16.0.2
+> Jakarta EE 9.1
+> GlassFish 6.2.1
+> мPostgreSQL 13.3
+> Intellij IDEA Ultimate 2021.2.1
+
 ## В данном репозитории представлены следующие работы: <br/>
 ####  [01. JavaEE stack](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/01.%20JavaEE%20stack)
 ####  [02. Spring](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/02.%20Spring)
