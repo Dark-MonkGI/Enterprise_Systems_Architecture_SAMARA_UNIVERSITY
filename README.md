@@ -4,7 +4,7 @@
 [Samara University](https://ssau.ru/) <br/>
 ESA-2021
 ## Лабораторные работы по курсу "Enterprise Systems Architecture".
-## Студент: Griaznov Ilia
+#### Студент: Griaznov Ilia
 ### Выполнено студентами: <br/>
 *Griaznov Ilia* <br/>
 *Troshkin Kirill* <br/>
