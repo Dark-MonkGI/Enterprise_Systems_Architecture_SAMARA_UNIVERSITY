@@ -6,9 +6,9 @@ ESA-2021
 ## Лабораторные работы по курсу "Enterprise Systems Architecture". <br/>
 #### Студент: Griaznov Ilia <br/>
 ### Выполнено студентами [(Task Sheet)](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/Task_Sheet):  <br/>
-*Griaznov Ilia* <br/>
-*Troshkin Kirill* <br/>
-*Muzyka Artyom* <br/>
+> *Griaznov Ilia* <br/>
+> *Troshkin Kirill* <br/>
+> *Muzyka Artyom* <br/>
 ### Группа: "6131-010402D"
 ## В данном репозитории представлены следующие работы: <br/>
 ####  [01. JavaEE stack](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/01.%20JavaEE%20stack)
