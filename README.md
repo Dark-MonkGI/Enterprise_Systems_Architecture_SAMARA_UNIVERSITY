@@ -3,9 +3,9 @@
 
 [Samara University](https://ssau.ru/) <br/>
 ESA-2021
-## Лабораторные работы по курсу "Enterprise Systems Architecture".
-#### Студент: Griaznov Ilia
-### [Task Sheet](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/Task_Sheet) Выполнено студентами: <br/>
+## Лабораторные работы по курсу "Enterprise Systems Architecture". <br/>
+#### Студент: Griaznov Ilia <br/>
+### Выполнено студентами: [(Task Sheet)](https://github.com/Dark-MonkGI/Enterprise_Systems_Architecture_SAMARA_UNIVERSITY/tree/main/Task_Sheet) <br/>
 *Griaznov Ilia* <br/>
 *Troshkin Kirill* <br/>
 *Muzyka Artyom* <br/>
