@@ -5,10 +5,10 @@
 ESA-2021
 ## Лабораторные работы по курсу "Enterprise Systems Architecture".
 ### Студент: Griaznov Ilia
-### Выполненно студентами: <br/>
-Griaznov Ilia <br/>
-Troshkin Kirill <br/>
-Muzyka Artyom <br/>
+### Выполнено студентами: <br/>
+*Griaznov Ilia* <br/>
+*Troshkin Kirill* <br/>
+*Muzyka Artyom* <br/>
 ### Группа: "6131-010402D"
 ### [Task Sheet]()<br/>
 
